@@ -9,8 +9,8 @@
 
 <div>
   <h3>👩🏻‍🎓 Background education</h3>
-  <li>Master's degree in Computer science, <i>2021.09 - 2024.02</i></li>
-  <li>Bachelor's degree in Computer engineering, <i>2011.03 - 2015.02</i></li>
+  <li>Bachelor's degree in Computer engineering, 2011.03 - 2015.02</li>
+  <li>Master's degree in Computer science, 2021.09 - 2024.02</li>
 </div>
 
 <br>
