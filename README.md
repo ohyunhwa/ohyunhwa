@@ -16,7 +16,7 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💻 My blog </h3>
+  <h3>👩🏻‍💻 My blogs </h3>
   <li><a href="https://devlog-berra.tistory.com">Tistory</a></li>
   <li><a href="https://ohyunhwa.github.io">Portfolio</a></li>
 </div>
