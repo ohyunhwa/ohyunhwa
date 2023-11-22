@@ -49,8 +49,8 @@
 
 <div>
   <h3>🙋🏻‍♀️ Training</h3>
-  <li>Android Application Developer Class, Samsung Multicampus</li>
-  <li>Fashion model training, NFM Model Academy</li>
+  <li>Android Application Developer Class, Samsung Multicampus, 2015.12 - 2016.06</li>
+  <li>Fashion model training, NFM Model Academy, 2016.05 - 2016.07</li>
 </div>
 
 <br>
