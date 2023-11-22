@@ -45,9 +45,9 @@
 <div>
   <h3>🙇🏻‍♀️ Extracurricular activities</h3>
   <li><b>2011.07 - 2011.08</b> Food server, Outback Steak House</li>
-  <li><b>2011.11 - 2012.01</b> Student reporter, University Press, </li>
-  <li><b>2012.06 - 2012.08</b> Food server, Dr.Robbin, </li>
-  <li><b>2013.02 - 2013.05</b> Food server, Black smith, </li>
+  <li><b>2011.11 - 2012.01</b> Student reporter, University Press</li>
+  <li><b>2012.06 - 2012.08</b> Food server, Dr.Robbin</li>
+  <li><b>2013.02 - 2013.05</b> Food server, Black smith</li>
   <li><b>2014.12 - 2015.02</b> Ticketing and Food store server, CJ CGV</li>
 </div>
 
@@ -55,7 +55,7 @@
 
 <div>
   <h3>🙋🏻‍♀️ Training</h3>
-  <li><b>2015.12 - 2016.06</b> Android Application Developer Class, Samsung Multicampus, </li>
+  <li><b>2015.12 - 2016.06</b> Android Application Developer Class, Samsung Multicampus</li>
   <li><b>2016.05 - 2016.07</b> Fashion model training, NFM Model Academy</li>
 </div>
 
