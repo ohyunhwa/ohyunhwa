@@ -30,7 +30,7 @@
 <br>
 
 <div>
-  <h3>✍️ Certificates</h3>
+  <h3>💁🏻‍♀️ Certificates</h3>
   <li><b>2013.10</b> Microsoft Office Specialist Excel 2007 Expert, Microsoft</li>
   <li><b>2013.12</b> Microsoft Office Specialist Powerpoint 2007, Microsoft</li>
   <li><b>2015.05</b> Word Processor Specialist, Korea Chamber of Commerce and Industry</li>
