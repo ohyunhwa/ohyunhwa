@@ -27,11 +27,11 @@
 <div>
   <h3>✍️ Certificates</h3>
   <li>Neural Networks and Deep learning, Coursera, evaluated 90.28, 2022.01</li>
-  <li>Secretary, Korea Chamber of Commerce and Industry, 2019.05</li>
+  <li>Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry, 2019.05</li>
   <li>Driver's License, Seoul Metropolitan Police Agency, 2015.05</li>
-  <li>Word Processor, Korea Chamber of Commerce and Industry, 2015.05</li>
-  <li>MOS Powerpoint 2007, Microsoft, 2013.12</li>
-  <li>MOS Excel 2007 Expert, Microsoft, 2013.10</li>
+  <li>Word Processor Specialist, Korea Chamber of Commerce and Industry, 2015.05</li>
+  <li>Microsoft Office Specialist Powerpoint 2007, Microsoft, 2013.12</li>
+  <li>Microsoft Office Specialist Excel 2007 Expert, Microsoft, 2013.10</li>
 </div>
 
 <br>
