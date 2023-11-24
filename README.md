@@ -13,50 +13,48 @@
 
 <div>
   <h3>👩🏻‍🎓 Educational background</h3>
-  <li><b>2011.03 - 2015.02</b> Bachelor's degree in Computer engineering</li>
   <li><b>2021.06 - 2024.02</b> Master's degree in Computer science</li>
+  <li><b>2011.03 - 2015.02</b> Bachelor's degree in Computer engineering</li>
 </div>
 
 <br>
 
 <div>
   <h3>👩🏻‍💼 Professional experiences</h3>
-  <li><b>2015.07 - 2015.10</b> (Contract) Software Technical Support Engineer</li>
-  <li><b>2016.09 - 2016.11</b> (Contract) Project Assistant</li>
   <li><b>2018.01 - 2020.06</b> (Full-time) IT Solution Sales Representative</li>
-  
+  <li><b>2016.09 - 2016.11</b> (Contract) Project Assistant</li>
+  <li><b>2015.07 - 2015.10</b> (Contract) Software Technical Support Engineer</li>
 </div>
 
 <br>
 
 <div>
   <h3>💁🏻‍♀️ Certificates</h3>
-  <li><b>2013.10</b> Microsoft Office Specialist Excel 2007 Expert, Microsoft</li>
-  <li><b>2013.12</b> Microsoft Office Specialist Powerpoint 2007, Microsoft</li>
-  <li><b>2015.05</b> Word Processor Specialist, Korea Chamber of Commerce and Industry</li>
-  <li><b>2015.05</b> Driver's License Class 1, Seoul Metropolitan Police Agency</li>
-  <li><b>2019.05</b> Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry</li>
   <li><b>2022.01</b> Neural Networks and Deep learning, Coursera, evaluated 90.28</li>
-  
+  <li><b>2019.05</b> Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry</li>
+  <li><b>2015.05</b> Driver's License Class 1, Seoul Metropolitan Police Agency</li>
+  <li><b>2015.05</b> Word Processor Specialist, Korea Chamber of Commerce and Industry</li>
+  <li><b>2013.12</b> Microsoft Office Specialist Powerpoint 2007, Microsoft</li>
+  <li><b>2013.10</b> Microsoft Office Specialist Excel 2007 Expert, Microsoft</li>
 </div>
 
 <br>
 
 <div>
   <h3>🙇🏻‍♀️ Extracurricular activities</h3>
-  <li><b>2011.07 - 2011.08</b> Food server, Outback Steak House</li>
-  <li><b>2011.11 - 2012.01</b> Student reporter, University Press</li>
-  <li><b>2012.06 - 2012.08</b> Food server, Dr.Robbin</li>
-  <li><b>2013.02 - 2013.05</b> Food server, Black smith</li>
   <li><b>2014.12 - 2015.02</b> Ticketing and Food store server, CJ CGV</li>
+  <li><b>2013.02 - 2013.05</b> Food server, Black smith</li>
+  <li><b>2012.06 - 2012.08</b> Food server, Dr.Robbin</li>
+  <li><b>2011.11 - 2012.01</b> Student reporter, University Press</li>
+  <li><b>2011.07 - 2011.08</b> Food server, Outback Steak House</li>
 </div>
 
 <br>
 
 <div>
   <h3>🙋🏻‍♀️ Training</h3>
-  <li><b>2015.12 - 2016.06</b> Android Application Developer Class, Samsung Multicampus</li>
   <li><b>2016.05 - 2016.07</b> Fashion model training, NFM Model Academy</li>
+  <li><b>2015.12 - 2016.06</b> Android Application Developer Class, Samsung Multicampus</li>
 </div>
 
 <br>
