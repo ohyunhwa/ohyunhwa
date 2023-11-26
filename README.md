@@ -57,16 +57,6 @@
   <li>Android Application Developer Class, Samsung Multicampus</li>
 </div>
 
-<br>
-
-<div>
-  <h3>Blogs</h3>
-  <li><a href="https://devlog-berra.tistory.com">Tistory</a></li>
-  <li><a href="https://ohyunhwa.github.io">Portfolio</a></li>
-  <li><a href="https://www.linkedin.com/in/berra5">LinkedIn</a></li>
-  <li><a href="https://www.instagram.com/hwaaa.daily">Instagram</a></li>
-</div>
-
 <!--
 **ohyunhwa/ohyunhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
