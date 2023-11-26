@@ -12,7 +12,7 @@
 <br>
 
 <div>
-  <h3>👩🏻‍🎓 Educational background</h3>
+  <h3>Educational background</h3>
   <li>Master's degree in Computer science</li>
   <li>Bachelor's degree in Computer engineering</li>
 </div>
@@ -20,7 +20,7 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💼 Professional experiences</h3>
+  <h3>Professional experiences</h3>
   <li>(Full-time) IT Solution Sales Representative</li>
   <li>(Contract) Project Assistant</li>
   <li>(Contract) Software Technical Support Engineer</li>
