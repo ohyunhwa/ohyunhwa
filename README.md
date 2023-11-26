@@ -21,9 +21,9 @@
 
 <div>
   <h3>👩🏻‍💼 Professional experiences</h3>
-  <li><b>2018.01 - 2020.06</b> (Full-time) IT Solution Sales Representative</li>
-  <li><b>2016.09 - 2016.11</b> (Contract) Project Assistant</li>
-  <li><b>2015.07 - 2015.10</b> (Contract) Software Technical Support Engineer</li>
+  <li>(Full-time) IT Solution Sales Representative</li>
+  <li>(Contract) Project Assistant</li>
+  <li>(Contract) Software Technical Support Engineer</li>
 </div>
 
 <br>
