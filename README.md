@@ -13,8 +13,8 @@
 
 <div>
   <h3>👩🏻‍🎓 Educational background</h3>
-  <li><b>2021.06 - 2024.02</b> Master's degree in Computer science</li>
-  <li><b>2011.03 - 2015.02</b> Bachelor's degree in Computer engineering</li>
+  <li>Master's degree in Computer science</li>
+  <li>Bachelor's degree in Computer engineering</li>
 </div>
 
 <br>
@@ -30,12 +30,12 @@
 
 <div>
   <h3>🤓 Certificates</h3>
-  <li><b>2022.01</b> Neural Networks and Deep learning, Coursera, evaluated 90.28</li>
-  <li><b>2019.05</b> Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry</li>
-  <li><b>2015.05</b> Driver's License Class 1, Seoul Metropolitan Police Agency</li>
-  <li><b>2015.05</b> Word Processor Specialist, Korea Chamber of Commerce and Industry</li>
-  <li><b>2013.12</b> Microsoft Office Specialist Powerpoint 2007, Microsoft</li>
-  <li><b>2013.10</b> Microsoft Office Specialist Excel 2007 Expert, Microsoft</li>
+  <li>Neural Networks and Deep learning, Coursera, evaluated 90.28</li>
+  <li>Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry</li>
+  <li>Driver's License Class 1, Seoul Metropolitan Police Agency</li>
+  <li>Word Processor Specialist, Korea Chamber of Commerce and Industry</li>
+  <li>Microsoft Office Specialist Powerpoint 2007, Microsoft</li>
+  <li>Microsoft Office Specialist Excel 2007 Expert, Microsoft</li>
 </div>
 
 <br>
@@ -53,8 +53,8 @@
 
 <div>
   <h3>😎 Training</h3>
-  <li><b>2016.05 - 2016.07</b> Fashion model training, NFM Model Academy</li>
-  <li><b>2015.12 - 2016.06</b> Android Application Developer Class, Samsung Multicampus</li>
+  <li>Fashion model training, NFM Model Academy</li>
+  <li>Android Application Developer Class, Samsung Multicampus</li>
 </div>
 
 <br>
