@@ -29,7 +29,7 @@
 <br>
 
 <div>
-  <h3>🤓 Certificates</h3>
+  <h3>Certificates</h3>
   <li>Neural Networks and Deep learning, Coursera, evaluated 90.28</li>
   <li>Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry</li>
   <li>Driver's License Class 1, Seoul Metropolitan Police Agency</li>
@@ -41,7 +41,7 @@
 <br>
 
 <div>
-  <h3>🗣 Extracurricular activities</h3>
+  <h3>Extracurricular activities</h3>
   <li>Ticketing and Food store server, CJ CGV</li>
   <li>Food server, Black smith</li>
   <li>Food server, Dr.Robbin</li>
@@ -52,7 +52,7 @@
 <br>
 
 <div>
-  <h3>😎 Training</h3>
+  <h3>Training</h3>
   <li>Fashion model training, NFM Model Academy</li>
   <li>Android Application Developer Class, Samsung Multicampus</li>
 </div>
