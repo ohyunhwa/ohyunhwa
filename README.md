@@ -63,6 +63,7 @@
   <h3>🔎 Blogs</h3>
   <li><a href="https://devlog-berra.tistory.com">Tistory</a></li>
   <li><a href="https://ohyunhwa.github.io">Portfolio</a></li>
+  <li><a href="https://www.linkedin.com/in/berra5">Linkedin</a></li>
 </div>
 
 <!--
