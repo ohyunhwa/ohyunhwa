@@ -53,7 +53,6 @@
 
 <div>
   <h3>🔎 Training</h3>
-  <li>Fashion model training, NFM Model Academy</li>
   <li>Android Application Developer Class, Samsung Multicampus</li>
 </div>
 
