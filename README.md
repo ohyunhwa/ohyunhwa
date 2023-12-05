@@ -46,7 +46,7 @@
   <li>Food Server, Black Smith</li>
   <li>Food Server, Dr.Robbin</li>
   <li>Student Reporter, University Press</li>
-  <li>Food Rerver, Outback Steak House</li>
+  <li>Food Server, Outback Steak House</li>
 </div>
 
 <br>
