@@ -30,7 +30,7 @@
 
 <div>
   <h3>🔎 Certificates</h3>
-  <li>Neural Networks and Deep learning, Coursera, evaluated 90.28</li>
+  <li>Neural Networks and Deep Learning, Coursera, Evaluated 90.28</li>
   <li>Secretarial Administrator Level-Ⅰ, Korea Chamber of Commerce and Industry</li>
   <li>Driver's License Class 1, Seoul Metropolitan Police Agency</li>
   <li>Word Processor Specialist, Korea Chamber of Commerce and Industry</li>
