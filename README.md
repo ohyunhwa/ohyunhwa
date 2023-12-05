@@ -1,7 +1,7 @@
 <div align='center'>
 
-<h1>OH HYUNHWA</h1>
-<h3>Software developer</h3>
+<h1>Oh HyunHwa</h1>
+<h3>Software Developer</h3>
 
 <br>
 
@@ -12,15 +12,15 @@
 <br>
 
 <div>
-  <h3>👩🏻‍🎓 Educational background</h3>
-  <li>Master's degree in Computer science</li>
-  <li>Bachelor's degree in Computer engineering</li>
+  <h3>👩🏻‍🎓 Educational Background</h3>
+  <li>Master's Degree in Computer Science</li>
+  <li>Bachelor's Degree in Computer Engineering</li>
 </div>
 
 <br>
 
 <div>
-  <h3>👩🏻‍💼 Professional experiences</h3>
+  <h3>👩🏻‍💼 Professional Experiences</h3>
   <li>(Full-time) IT Solution Sales Representative</li>
   <li>(Contract) Project Assistant</li>
   <li>(Contract) Software Technical Support Engineer</li>
@@ -41,12 +41,12 @@
 <br>
 
 <div>
-  <h3>🔎 Extracurricular activities</h3>
-  <li>Ticketing and Food store server, CJ CGV</li>
-  <li>Food server, Black smith</li>
-  <li>Food server, Dr.Robbin</li>
-  <li>Student reporter, University Press</li>
-  <li>Food server, Outback Steak House</li>
+  <h3>🔎 Extracurricular Activities</h3>
+  <li>Ticketing and Food Store Server, CJ CGV</li>
+  <li>Food Server, Black Smith</li>
+  <li>Food Server, Dr.Robbin</li>
+  <li>Student Reporter, University Press</li>
+  <li>Food Rerver, Outback Steak House</li>
 </div>
 
 <br>
@@ -54,6 +54,7 @@
 <div>
   <h3>🔎 Training</h3>
   <li>Android Application Developer Class, Samsung Multicampus</li>
+  <li>Fashion Model, NFM Model Academy</li>
 </div>
 
 <!--
