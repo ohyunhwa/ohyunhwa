@@ -4,7 +4,7 @@
   
 </div>
 
-Hi there, my name is HyunHwa Oh and I'm a software engineer.
+Hi there, I am a software developer.
 
 <br/>
 
