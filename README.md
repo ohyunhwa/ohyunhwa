@@ -4,24 +4,22 @@
   
 </div>
 
-Hi there, I am a software developer.
-
 <br/>
 
 ### EDUCATIONAL BACKGROUND
 
-- Sep 2021 ~ Feb 2024, Master's Degree in Computer Science and Engineering
-- Mar 2011 ~ Feb 2015, Bachelor's Degree in Computer Engineering
+- 2021.09 ~ 2024.02, Master's Degree in Computer Science and Engineering
+- 2011.03 ~ 2015.02, Bachelor's Degree in Computer Engineering
 
 <br/>
 
 ### PROFESSIONAL EXPERIENCES
 
-- Sep 2025 - Currently, S/W Engineer (Medical Image Processing, Windows Application)
-- Sep 2024 - Dec 2024, S/W Engineer (BMS-Battery Management System, Windows Application)
-- Jan 2018 - Jun 2020, IT Solution Sales Representative
-- Sep 2016 - Nov 2016, Project Assistant
-- Jul 2015 - Oct 2015, Technical Support Enginner
+- 2025.09 - Currently, S/W Engineer (Medical Image Processing, Windows Application)
+- 2024.09 - 2024.12, S/W Engineer (BMS-Battery Management System, Windows Application)
+- 2018.01 - 2020.06, IT Solution Sales Representative
+- 2016.09 - 2016.11, Project Assistant
+- 2015.07 - 2015.10, Technical Support Enginner
 
 <br/>
 
